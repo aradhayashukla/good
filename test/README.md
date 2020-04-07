@@ -1,3 +1,3 @@
 
-welcome git
+welcome
 it is a vary useful.
